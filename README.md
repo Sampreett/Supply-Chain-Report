@@ -1,5 +1,5 @@
 **Description:**  
-This report provides a comprehensive overview of supply chain performance through key performance indicators (KPIs) and detailed analysis. It is designed to offer insights into order fulfillment, service levels, and delivery times.
+This report provides a comprehensive overview of supply chain performance through key performance indicators (KPIs) and detailed analysis. It is designed to offer insights into order fulfillment, service levels, and delivery times. Here are the [Project Files](https://github.com/Sampreett/Supply-Chain-Report)
 
 **Key Features:**
 
